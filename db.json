@@ -1,0 +1,19 @@
+{
+  "koty": [
+    {
+      "zdjecie": "https://i.imgur.com/TG682rx.jpeg",
+      "opis": "Kot jakis duzy chyba",
+      "polubienia": 150
+    },
+    {
+      "zdjecie": "https://i.imgur.com/9QKRXQO.png",
+      "opis": "Kot jakis duzy chyba",
+      "polubienia": 230
+    },
+    {
+      "zdjecie": "https://i.imgur.com/Viu0gAn.jpeg",
+      "opis": "Kot jakis duzy chyba",
+      "polubienia": 80
+    }
+  ]
+}
